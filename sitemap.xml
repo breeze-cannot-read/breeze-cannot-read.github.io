@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://breeze-cannot-read.github.io/galley/index.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://breeze-cannot-read.github.io/galley/wallpaper/index.html</loc>
+    
+    <lastmod>2022-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://breeze-cannot-read.github.io/2022/10/02/Arch%20Linux%E5%AE%89%E8%A3%85Nvidia%E9%A9%B1%E5%8A%A8/</loc>
     
     <lastmod>2022-10-04</lastmod>
