@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/10/03/hello-world/"/>
+      <url>/2022/10/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>微信开启x5内核</title>
+      <link href="/2022/10/02/%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%90%AFx5%E5%86%85%E6%A0%B8/"/>
+      <url>/2022/10/02/%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%90%AFx5%E5%86%85%E6%A0%B8/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://v2.jinrishici.com/one.svg"></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>开启微信x5内核可以调试web， <del>可以跳过青年大学习</del> </p><h1 id="回退微信版本"><a href="#回退微信版本" class="headerlink" title="回退微信版本"></a>回退微信版本</h1><p>新版本微信不支持x5内核，变成了xweb<br><a href="https://share.weiyun.com/70avPH7C">微信8.0.21版本下载</a></p><h1 id="下载内核"><a href="#下载内核" class="headerlink" title="下载内核"></a>下载内核</h1><p><a href="https://wwp.lanzoup.com/iRP2N05atdad">内核下载链接</a>  提取码:czm6<br>下载好内核之后先不要安装</p><h1 id="开启x5内核"><a href="#开启x5内核" class="headerlink" title="开启x5内核"></a>开启x5内核</h1><p>在微信聊天中发送 <code>http://debugmm.qq.com/?forcex5=true</code><br>并点击打开<br><img src="http://wp.xiaohuang.vip/p/3/2022/10/04/633b93eb6b79b.png"><br>然后发送 <code>http://debugtbs.qq.com</code> ，打开点击安装本地内核<br><img src="http://wp.xiaohuang.vip/p/3/2022/10/04/633b943be83ba.png"><br>看好路径，将文件移动至对应路径<br>回到微信，再次点击安装本地内核，安装完按重启岂可<br><img src="http://wp.xiaohuang.vip/p/3/2022/10/04/633b946670498.png"></p><h1 id="开启vConsole"><a href="#开启vConsole" class="headerlink" title="开启vConsole"></a>开启vConsole</h1><p>微信聊天中发送 <code>http://debugx5.qq.com</code>，点击打开<br>点击信息，找到vConsole并打开即可<br><img src="http://wp.xiaohuang.vip/p/3/2022/10/04/633b94a036589.png"></p><h1 id="如果vConsole不见了的解决方法"><a href="#如果vConsole不见了的解决方法" class="headerlink" title="如果vConsole不见了的解决方法"></a>如果vConsole不见了的解决方法</h1><p>打开 <code>http://debugtbs.qq.com</code>，<br>点击清除本地缓存即可<br><img src="http://wp.xiaohuang.vip/p/3/2022/10/04/633b94cbc9800.jpg"></p><h1 id="跳过青年大学习方法"><a href="#跳过青年大学习方法" class="headerlink" title="跳过青年大学习方法"></a>跳过青年大学习方法</h1><p><a href="https://blog.wehaox.com/archives/32.html">wehaox</a></p><h1 id="大学习还是要好好看的，不能投机取巧哦！学习新思想，争做新青年！"><a href="#大学习还是要好好看的，不能投机取巧哦！学习新思想，争做新青年！" class="headerlink" title="大学习还是要好好看的，不能投机取巧哦！学习新思想，争做新青年！"></a>大学习还是要好好看的，不能投机取巧哦！学习新思想，争做新青年！</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 微信 </tag>
+            
+            <tag> x5内核 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Arch Linux安装Nvidia驱动</title>
+      <link href="/2022/10/02/Arch%20Linux%E5%AE%89%E8%A3%85Nvidia%E9%A9%B1%E5%8A%A8/"/>
+      <url>/2022/10/02/Arch%20Linux%E5%AE%89%E8%A3%85Nvidia%E9%A9%B1%E5%8A%A8/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://v2.jinrishici.com/one.svg"></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在arch linux安装NVIDIA驱动时卡在 <em>clean, files, blocks</em><br>原来是32位支持没打开<br>只能说一句<img src="https://img2.baidu.com/it/u=1069074421,1735741844&fm=253&fmt=auto&app=138&f=JPEG?w=471&h=308"></p><h1 id="安装驱动"><a href="#安装驱动" class="headerlink" title="安装驱动"></a>安装驱动</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo pacman -S nvidia nvidia-prime nvidia-settings nvidia-utils opencl-nvidia lib32-nvidia-utils lib32-opencl-nvidia <span class="comment">#安装闭源驱动</span></span><br></pre></td></tr></table></figure><p>这时候会发现lib32的都安装不了</p><h1 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h1><p>编辑<code>pacman.conf</code>文件启用32位软件源</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo vim /etc/pacman.conf</span><br></pre></td></tr></table></figure><p>找到multilib并取消注释<br><img src="https://pan.mkirin.top/api/v3/file/source/219/633af6ac16f2c2beb1833eb2.png?sign=SXSGU_xx6TNlb4Su9gG83RYOZ6aoNk-VcuSmDh826Zc=:0"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo pacman -Sy <span class="comment">#更新一下</span></span><br></pre></td></tr></table></figure><p>重新安装驱动</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo pacman -S nvidia nvidia-prime nvidia-settings nvidia-utils opencl-nvidia lib32-nvidia-utils lib32-opencl-nvidia <span class="comment">#安装闭源驱动</span></span><br></pre></td></tr></table></figure><h1 id="按照arch-wiki进行配置"><a href="#按照arch-wiki进行配置" class="headerlink" title="按照arch wiki进行配置"></a>按照arch wiki进行配置</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvidia-xconfig <span class="comment">#自动配置</span></span><br></pre></td></tr></table></figure><p>最后重启电脑，大功告成！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
