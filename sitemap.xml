@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://breeze-cannot-read.github.io/gallery/wallpaper/index.html</loc>
+    <loc>https://breeze-cannot-read.github.io/gallery/pixiv/index.html</loc>
     
     <lastmod>2022-10-05</lastmod>
     
@@ -13,7 +13,16 @@
   <url>
     <loc>https://breeze-cannot-read.github.io/gallery/index.html</loc>
     
-    <lastmod>2022-10-04</lastmod>
+    <lastmod>2022-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://breeze-cannot-read.github.io/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2022-10-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
